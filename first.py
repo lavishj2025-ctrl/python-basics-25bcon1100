@@ -1,10 +1,10 @@
-print("hii")
+#print("hii")
 
-print(5)
+#print(5)
 
-print(5+5)
+#print(5+5)
 
-print("hi","rahul")
+#print("hi","rahul")
 
 name = "lavish"
 print(name)
